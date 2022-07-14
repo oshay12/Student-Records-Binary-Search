@@ -1,3 +1,9 @@
+/**
+ * @author Owen Shay 3750150
+ CS1083
+ Module 3 Assignment
+ 07/14/2022
+ */
 public class StudentBinarySearch {
     public static final int NOTFOUND = -1;
 
